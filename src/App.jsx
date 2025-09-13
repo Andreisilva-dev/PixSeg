@@ -73,7 +73,7 @@ function App() {
   return (
     <>
       <Container>
-        <h1>Sistema de Separação de Compras</h1>
+        <h1>PixSeg</h1>
 
         <BoxInputs>
           <Input
